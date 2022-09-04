@@ -1,2 +1,2 @@
-# Zenn_conent
+# Zenn_content
 Repository for Zenn article 
